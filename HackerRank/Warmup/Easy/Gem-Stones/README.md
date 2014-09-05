@@ -18,14 +18,13 @@ Each composition consists of only small latin letters ('a'-'z').
 
 1 ≤ Length of each composition ≤ 100 
 #####Sample Input
-
+```shell
 3
-
 abcdde
-
 baccd
-
 eeabg
-
+```
 #####Sample Output
+```shell
 2
+```
