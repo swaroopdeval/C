@@ -1,4 +1,4 @@
-#Project Euler #4: Largest palindrome product
+#[Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004)
 A palindromic number reads the same both ways. The smallest 6 digit palindrome made from the product of two 3-digit numbers is **_101101 = 143×707_**.
 
 Find the largest palindrome made from the product of two 3-digit numbers which is less than **_N_**.
