@@ -10,8 +10,8 @@ First line contains **_T_** that denotes the number of test cases. This is follo
 For each test case, print an integer that denotes the sum of all the multiples of 3 or 5 below **_N_**. 
 ######Constraints 
 ```shell
-1≤T≤105
-1≤N≤109
+1≤T≤10^5
+1≤N≤10^9
 ```
 ######Sample Input
 ```shell
