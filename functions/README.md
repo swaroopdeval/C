@@ -2,8 +2,7 @@
 1. sprintf();
 2. qsort();
 3. atoi();
-4. strtoul();
-5. memset();
+4. memset();
 6. strcpy(); //with or without size
 7. strcat();
 8. strcmp();
