@@ -1,4 +1,4 @@
-#Gem Stones
+#[Gem Stones](https://www.hackerrank.com/challenges/gem-stones)
 
 John has discovered various rocks. Each rock is composed of various elements, and each element is represented by a lowercase latin letter from 'a' to 'z'. An element can be present multiple times in a rock. An element is called a 'gem-element' if it occurs at least once in each of the rocks.
 
