@@ -1,5 +1,7 @@
 #[Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006)
-The sum of the squares of the first ten natural numbers is, **_1^2+2^2+...+10^2=385_**. The square of the sum of the first ten natural numbers is, (1+2+⋯+10)^2=552=3025. Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is **_3025−385=2640_**.
+The sum of the squares of the first ten natural numbers is, **_1^2+2^2+...+10^2=385_**. The square of the sum of the first ten natural numbers is, **_(1+2+⋯+10)^2=552=3025_** .
+
+Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is **_3025−385=2640_**.
 
 Find the difference between the sum of the squares of the first **_N_** natural numbers and the square of the sum.
 
