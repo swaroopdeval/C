@@ -32,6 +32,6 @@ On the second line, print the number of teams that can know the maximum number o
 ```
 ######Explanation
 ```shell
-(1, 3) and (3, 4) know all the 5 topics. So the maximal topics a 2-people team knows is 5,and only 2 
-teams can achieve this.
+(1, 3) and (3, 4) know all the 5 topics. So the maximal topics a 2-people team knows is 5,and only 2 teams
+can achieve this.
 ```
