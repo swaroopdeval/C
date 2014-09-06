@@ -13,7 +13,7 @@ For each testcase, print the required answer in a new line.
 ######Constraints
 ```shell
 1 ≤ T ≤ 100
-1 ≤ A ≤ B ≤ 109
+1 ≤ A ≤ B ≤ 10^9
 ```
 ######Sample Input
 ```shell
