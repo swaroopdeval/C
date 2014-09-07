@@ -5,6 +5,7 @@ What is the **_N'th_** prime number?
 ######Input Format
 First line contains **_T_** that denotes the number of test cases. This is followed by **_T_** lines, each containing an integer, **_N_**.
 ######Output Format
+
 Print the required answer for each test case.
 ######Constraints
 ```shell
