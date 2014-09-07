@@ -8,8 +8,8 @@ First line contains **_T_** that denotes the number of test cases. This is follo
 Print the required answer for each test case.
 ######Constraints
 ```shell
-1≤T≤103
-1≤N≤104
+1≤T≤1000
+1≤N≤10000
 ```
 ######Sample Input
 ```shell
