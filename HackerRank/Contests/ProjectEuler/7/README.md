@@ -1,5 +1,5 @@
 #[10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007)
-By listing the first six prime numbers: **_2,3,5,7,11_** and **_13_**, we can see that the **_6th-** prime is **_13_**.
+By listing the first six prime numbers: **_2,3,5,7,11_** and **_13_**, we can see that the **_6th_** prime is **_13_**.
 
 What is the **_N'th_** prime number?
 ######Input Format
