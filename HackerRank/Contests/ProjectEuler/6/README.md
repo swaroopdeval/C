@@ -13,8 +13,8 @@ Print the required answer for each test case.
 
 ######Constraints
 ```shell
-1≤T≤104
-1≤N≤104
+1≤T≤10^4
+1≤N≤10^4
 ```
 ######Sample Input
 ```shell
