@@ -10,6 +10,7 @@ Two lines each containing a string.
 
 ######Constraints 
 1 <= Length of A,B <= 10000 
+
 A and B will only consist of lowercase latin letter.
 
 ######Output Format 
