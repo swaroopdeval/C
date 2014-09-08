@@ -13,7 +13,7 @@ Print minimum number of required steps for each test case.
 ######Constraints
 ```shell
 1≤T≤10 
-1≤lengthofString≤105 
+1≤length of String≤105 
 ```
 ######Sample Input
 ```shell
