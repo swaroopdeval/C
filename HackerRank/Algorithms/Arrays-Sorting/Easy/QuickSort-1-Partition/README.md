@@ -10,7 +10,7 @@ In the new sub-array, the relative positioning of elements should remain the sam
 
 i.e., n1 > p > n2.
 
-*Guideline8 - In this challenge, you do not need to move around the numbers 'in-place'. This means you can create 2 lists and combine them at the end.
+*Guideline* - In this challenge, you do not need to move around the numbers 'in-place'. This means you can create 2 lists and combine them at the end.
 
 ######Input Format 
 You will be given an array of integers. The number p is the first element in ar.
