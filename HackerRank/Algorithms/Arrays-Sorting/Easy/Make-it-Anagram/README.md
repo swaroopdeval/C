@@ -1,5 +1,5 @@
 #[Make it Anagram](https://www.hackerrank.com/challenges/make-it-anagram)
-Alice recently started learning about cryptography and found that anagrams are very useful. Two strings are anagrams of each other if they have same character set. For example strings **_"bacdc"_** and **_"dcbac"_** are anagrams, while strings **_"bacdc"_** and  **_"dcbad"_ ** are not.
+Alice recently started learning about cryptography and found that anagrams are very useful. Two strings are anagrams of each other if they have same character set. For example strings **_"bacdc"_** and **_"dcbac"_** are anagrams, while strings **_"bacdc"_** and **_"dcbad"_** are not.
 
 Alice decides on an encryption scheme involving 2 large strings where encryption is dependent on the minimum number of character deletions required to make the two strings anagrams. She need your help in finding out this number.
 
