@@ -1,6 +1,6 @@
 #[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)
 ######Comparison Sorting 
-Quicksort usually has a running time of n*log(n), but is there an algorithm that can sort even faster? In general, this is not possible. Most sorting algorithms are comparison sorts, i.e., they sort a list just by comparing the elements with one another. A comparison sort algorithm cannot beat n log(n) (worst-case) running time, since n log(n) represents the minimum number of comparisons needed to know where to place each element. For more details, you can see these notes (PDF).
+Quicksort usually has a running time of n*log(n), but is there an algorithm that can sort even faster? In general, this is not possible. Most sorting algorithms are comparison sorts, i.e., they sort a list just by comparing the elements with one another. A comparison sort algorithm cannot beat n log(n) (worst-case) running time, since n log(n) represents the minimum number of comparisons needed to know where to place each element. For more details, you can see these [notes](http://www.cs.cmu.edu/~avrim/451f11/lectures/lect0913.pdf) (PDF).
 
 ######Alternative Sorting 
 However, for certain types of input, it is more efficient to use a non-comparison sorting algorithm. This will make it possible to sort lists even in linear time. These challenges will cover Counting Sort, a fast way to sort lists where the elements have a small number of possible values, such as integers within a certain range. We will start with an easy task - counting.
@@ -38,6 +38,9 @@ Output the number of times every number from 0 to 99 (inclusive) appears in the 
 ######Explanation
 
 the output states that **0** appears 0 times. 
+
 **1** appears 2 times. 
+
 **2** appears 0 times. 
+
 and so on in the given input array.
