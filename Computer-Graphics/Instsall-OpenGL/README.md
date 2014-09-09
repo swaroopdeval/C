@@ -131,4 +131,5 @@ int main(int argc, char **argv)
   * $ gcc accum.c -lGL -lglut
 * Run it
   * $ ./a.out
+
 ######Have Fum :)
