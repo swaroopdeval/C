@@ -1,5 +1,5 @@
 #Install OpenGL in Ubuntu
-* Open terminal
+* Open terminal ctrl+alt+t
 * Type these commands
   * $ sudo apt-get install mesa-common-dev
   * $ sudo apt-get install freeglut3-dev
