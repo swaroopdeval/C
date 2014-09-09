@@ -132,4 +132,4 @@ int main(int argc, char **argv)
 * Run it
   * $ ./a.out
 
-######Have Fum :)
+######Have Fun :)
