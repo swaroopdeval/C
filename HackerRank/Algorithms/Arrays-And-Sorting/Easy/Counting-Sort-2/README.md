@@ -17,9 +17,10 @@ ar - n space separated numbers that belong to the list
 Output all the numbers of the list in-order.
 
 ######Constraints 
+```shell
 1 <= n <= 1000000 
 0 <= x < 100 , x ∈ ar
-
+```
 ######Sample Input
 
 100
