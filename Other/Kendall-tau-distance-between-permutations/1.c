@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+int count=0;
 void part(int [],int ,int);
 void merge(int [],int,int,int);
 
