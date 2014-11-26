@@ -1,6 +1,7 @@
 # C functions
 3. atoi();
 4. [getline();](https://github.com/swaroopdeval/C/blob/master/HackerRank/Algorithms/string/easy/pangram/pangram2.c)  // use of #define _GNU_SOURCE size_t len =0 and size_t = read
+5. memcpy();
 4. memset();
 5. sprintf();
 6. strcat();
