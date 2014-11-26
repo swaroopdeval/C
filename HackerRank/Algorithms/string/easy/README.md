@@ -13,7 +13,8 @@ Input consists of a line containing s.
 ```
 ###Constraints 
 ```shell
-Length of s can be atmost 103 (1≤|s|≤103) and it may contain spaces, lowercase and uppercase letters. Lowercase and uppercase instances of a letter are considered same.
+Length of s can be atmost 103 (1≤|s|≤103) and it may contain spaces, lowercase and uppercase letters. 
+Lowercase and uppercase instances of a letter are considered same.
 ```
 ###Output Format
 ```shell
