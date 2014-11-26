@@ -26,9 +26,9 @@ pangram
 #####Sample Input #2
 
 We promptly judged antique ivory buckles for the prize    
-##Sample Output #2
+#####Sample Output #2
 
 not pangram
-##Explanation
+###Explanation
 
 In the first testcase, the answer is pangram because the sentence contains all the letters.
